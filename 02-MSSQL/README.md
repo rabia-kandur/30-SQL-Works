@@ -1,0 +1,1 @@
+[<img src="./00-SampleRetail/00-SampleRetail.png" />](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16)
